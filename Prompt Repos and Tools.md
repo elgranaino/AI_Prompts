@@ -7,3 +7,5 @@ https://github.com/0xeb/TheBigPromptLibrary
 https://github.com/mhar-andal/system-prompts-and-models-of-ai-tools
 https://github.com/elder-plinius/CL4R1T4S
 https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting
+https://github.com/e2b-dev/awesome-ai-agents
+https://github.com/punkpeye/awesome-mcp-clients
